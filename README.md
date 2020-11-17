@@ -8,6 +8,6 @@ Foi utilizada uma API publica de pokemons chamada PokeAPI, link para a documenta
 
 ### Dicas
 
-Lembrar de verificar se você está dentro da pasta do projeto no terminal, e executar o `npm install` e `npm start` para rodar o projeto.
+Lembre-se de verificar se você está dentro da pasta do projeto no terminal, e executar o `npm install` e `npm start` para rodar o projeto.
 
 #VQV
